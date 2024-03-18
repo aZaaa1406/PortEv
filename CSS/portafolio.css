@@ -1,0 +1,21 @@
+
+.projects{
+    width: 100%;
+    margin: 2.5%
+}
+.examen{
+    display: flex;
+}
+.dune{
+    display: flex;
+}
+.text{
+    margin: 15px;
+}
+.imagen img{
+    width: 300px;
+}
+.text a{
+    text-align: center;
+    color:black;
+}
